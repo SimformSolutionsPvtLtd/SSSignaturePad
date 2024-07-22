@@ -23,7 +23,7 @@ public struct SignatureViewContainer: UIViewRepresentable {
     public func makeUIView(context: Context) -> SSDrawSignatureView {
         let aSignatureView = SSDrawSignatureView(backgroundColor: UIColor(Color.white))
         aSignatureView.delegate = context.coordinator
-        aSignatureView.strokeColor = UIColor(.green)
+        aSignatureView.strokeColor = UIColor(.black)
         return aSignatureView
     }
 
