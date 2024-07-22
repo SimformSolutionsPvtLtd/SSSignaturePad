@@ -92,10 +92,32 @@ struct ContentView: View {
     }
 }
 
-# Contributing
+## How to Contribute 🤝 
 
-Contributions are welcome! If you have any improvements or bug fixes, feel free to open a pull request or submit an issue.
+Whether you're helping us fix bugs, improve the docs, or a feature request, we'd love to have you! :muscle:
+Check out our [**Contributing Guide**](CONTRIBUTING.md) for ideas on contributing.
 
-# License
+## Find this example useful? ❤️
 
-SSSignaturePad is available under the MIT license.
+Support it by joining [stargazers](https://github.com/SimformSolutionsPvtLtd/SSSwiftUIGIFView/stargazers) :star: for this repository.
+
+## Bugs and Feedback
+
+For bugs, feature feature requests, and discussion use [GitHub Issues](https://github.com/SimformSolutionsPvtLtd/SSSwiftUIGIFView/issues).
+
+
+## Check out our other Libraries
+
+<h3><a href="https://github.com/SimformSolutionsPvtLtd/Awesome-Mobile-Libraries"><u>🗂 Simform Solutions Libraries→</u></a></h3>
+
+
+## MIT License
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details
+
+[PR-image]:https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat
+[PR-url]:http://makeapullrequest.com
+[swift-image]:https://img.shields.io/badge/swift-5.0-orange.svg
+[swift-url]: https://swift.org/
+[Swift Compatibility-badge]: https://img.shields.io/endpoint?url=https%3A%2F%2Fswiftpackageindex.com%2Fapi%2Fpackages%2FSimformSolutionsPvtLtd%2FSSSwiftUIGIFView%2Fbadge%3Ftype%3Dswift-versions
+[Platform Compatibility-badge]: https://img.shields.io/endpoint?url=https%3A%2F%2Fswiftpackageindex.com%2Fapi%2Fpackages%2FSimformSolutionsPvtLtd%2FSSSwiftUIGIFView%2Fbadge%3Ftype%3Dplatforms
