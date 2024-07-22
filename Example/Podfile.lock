@@ -1,0 +1,16 @@
+PODS:
+  - SSSignaturePad (1.0.0)
+
+DEPENDENCIES:
+  - SSSignaturePad (from `../`)
+
+EXTERNAL SOURCES:
+  SSSignaturePad:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  SSSignaturePad: d7bb1cb38c453f11a4b3b907ff255aed5fe11704
+
+PODFILE CHECKSUM: 7b77c021a75cf1dc37cbbd65b524152876bd3a7f
+
+COCOAPODS: 1.13.0
