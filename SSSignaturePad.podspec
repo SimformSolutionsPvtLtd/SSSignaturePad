@@ -1,6 +1,6 @@
 Pod::Spec.new do |s|
   s.name         = 'SSSignaturePad'
-  s.version      = '1.0.0'
+  s.version      = '1.0.1'
   s.summary      = 'A signature pad'
   s.description  = <<-DESC
                    A signature pad which can be used in SwiftUI apps.
